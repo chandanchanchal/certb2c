@@ -4,3 +4,4 @@ This is first line in a.txt for feature branch
 This is demo line
 This is the final line
 This line is for pull
+This is new line made in test branch
